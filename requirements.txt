@@ -1,5 +1,5 @@
 argparse==1.2.1
--e git+https://github.com/nutritionix/library-python.git@3fdc26d7a7291488548ec5e002b5e02e8b207374#egg=nutritionix-dev
+-e git+https://github.com/Nosh21/nutritionix-python-3.git@dev#egg=nutritionix-python-3
 pkginfo==1.1
 requests==2.5.0
 twine==1.4.0
